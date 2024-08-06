@@ -1,4 +1,4 @@
-# Chocolates_Sales_Analysis_PowerBI
+# Chocolates_Sales_Analysis_Excel_PowerBI
 
 🚀 Unlocking Sweet Success with Data: Chocolate Sales Analysis Using Power BI! 🍫📊 🚀
 
